@@ -33,7 +33,6 @@ function playRound(playerSelection, computerSelection) {
     return `Computer played ${computerSelection} and you played ${playerSelection} so you win!`;
   }
 }
-
 // const playerSelection = "scissors";
 // const computerSelection = getComputerChoice();
 
